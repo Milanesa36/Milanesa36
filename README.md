@@ -1,0 +1,13 @@
+![1000017449](https://github.com/Milanesa36/Milanesa36/assets/141947335/5d4a3c14-2d22-442d-82a5-9e499cceea13)
+![1000017446](https://github.com/Milanesa36/Milanesa36/assets/141947335/5b141de3-7aba-4a12-ab08-b2f595233ba1)
+![1000017447](https://github.com/Milanesa36/Milanesa36/assets/141947335/e6e2df4e-fa85-4f65-ada9-dbf0762ef3e7)
+- 👋 Hi, I’m @Milanesa36
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Milanesa36/Milanesa36 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
